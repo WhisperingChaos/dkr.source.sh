@@ -1,0 +1,7 @@
+# vim temp files
+*.swp
+# downloaded dependencies
+test/base/assert.source.sh
+test/config/
+test/sourcer/
+
